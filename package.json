@@ -67,7 +67,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "lodash": "^4.17.15",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mustache": "^4.0.0"
   }
 }
